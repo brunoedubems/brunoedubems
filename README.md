@@ -19,7 +19,7 @@ Hi, I'm Bruno Eduardo!🙂
   </div>
 
    ##
-  
+   ##
   
    💌Connect with Me
 <div>
