@@ -4,8 +4,7 @@ Hi, I'm Bruno Eduardo!🙂
   <a href="https://github.com/brunoedubems">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoedubems&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoedubems&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+</div> 
  ##
   🚌Tech Stack
  <div style="display: inline_block"><br>
