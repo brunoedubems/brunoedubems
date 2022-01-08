@@ -30,4 +30,5 @@ Hi, I'm Bruno Eduardo!🙂
  
 </div>
   
+   ![Snake animation](https://github.com/brunoedubems/brunoedubems/blob/output/github-contribution-grid-snake.svg)
   
