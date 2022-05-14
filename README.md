@@ -10,9 +10,10 @@ Hi, I'm Bruno Eduardo!🙂
 ## Oque tenho
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](xxxxxxx)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](xxxx)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-eduardo-53a0ba220)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xxxx)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](xxxxx)
+  
 
 # O que ja experimentei em minha jornada ate agora {
 
@@ -79,19 +80,12 @@ Hi, I'm Bruno Eduardo!🙂
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
   
-  #}
+ }
   
   
   
   
    💌 Connect with Me
-<div>
-    <a href="https://www.facebook.com/brunoedubems" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/brunoedubems" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunoedubems@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-  
+
    ![Snake animation](https://github.com/brunoedubems/brunoedubems/blob/output/github-contribution-grid-snake.svg)
   
