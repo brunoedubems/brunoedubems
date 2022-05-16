@@ -76,9 +76,9 @@ Hi, I'm Bruno Eduardo!🙂
   
  }
   
-    # O que vou aprender em breve  {
-  
-    
+  ##
+ # O que vou aprender em breve  {
+
   ## Frameworks
  ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
