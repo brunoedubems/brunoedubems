@@ -65,7 +65,7 @@ Hi, I'm Bruno Eduardo!🙂
 
 
   
- }
+  # }
   
   ##
  # O que vou aprender em breve  {
@@ -89,6 +89,8 @@ Hi, I'm Bruno Eduardo!🙂
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+  
+    # }
   
   
    💌 Connect with Me
