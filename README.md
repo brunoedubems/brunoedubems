@@ -88,5 +88,4 @@ Ae, Sou o Bruno Eduardo!🙂
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
   
-    # }
   
