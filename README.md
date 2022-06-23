@@ -6,7 +6,6 @@ Ae, Sou o Bruno Eduardo!🙂
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoedubems&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
 ## Oque tenho
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](xxxxxxx)
@@ -90,9 +89,4 @@ Ae, Sou o Bruno Eduardo!🙂
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
   
     # }
-  
-  
-   💌 Connect with Me
-
-   ![Snake animation](https://github.com/brunoedubems/brunoedubems/blob/output/github-contribution-grid-snake.svg)
   
