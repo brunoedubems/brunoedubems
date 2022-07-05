@@ -69,4 +69,4 @@ Ae, Sou o Bruno Eduardo!🙂
 ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
  
-  
+   # }
