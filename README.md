@@ -6,13 +6,6 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoedubems&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## Oque tenho
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9e59db?style=for-the-badge)](xxxxxxx)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-eduardo-53a0ba220)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](xxxxx)
-  
-
 # O que ja experimentei em minha jornada até agora 
 
 <div style="display: inline_block"><br/>
@@ -45,3 +38,16 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
 <img align="center" alt="html5" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
  </div>
    # 
+  
+  
+  # Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/brunoedubems/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/brunoedubems" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
