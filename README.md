@@ -23,8 +23,7 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
 <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-  # 
+</div> 
   
   # O que estou aprendendo agora 
   
@@ -37,7 +36,6 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="html5" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
  </div>
-   # 
   
   
   # Contact
