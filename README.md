@@ -38,13 +38,14 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
   
   
   # Contact
-
 <p align="left" style="background:yellow">
-
+  
 <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
 <a href="https://instagram.com/brunoedubems" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  
 </p>
