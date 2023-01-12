@@ -4,6 +4,8 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
   <a href="https://github.com/brunoedubems">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoedubems&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&pat_1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoedubems&layout=compact&langs_count=7&theme=dracula&pat_1"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoedubems)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 # O que ja experimentei em minha jornada até agora 
