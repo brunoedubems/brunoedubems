@@ -42,6 +42,6 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
 </a>
   
   <a href="https://bruno-portfolio-beta.netlify.app/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=flat&logo=default" alt="Portfolio"/>
+ <img align="center" src="https://img.shields.io/badge/-brunoedubems-05122A?style=portfolio" alt="Portfolio"/>
 </a>
 </p>
