@@ -34,7 +34,7 @@ Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques
 <p align="left" style="background:yellow">
   
 <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Bruno-Eduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Bruno&Eduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
   
 <a href="https://instagram.com/brunoedubems" target="_blank">
