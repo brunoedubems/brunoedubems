@@ -45,7 +45,7 @@
                   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a> 
             <a href="https://bruno-portfolio-beta.netlify.app/" target="_blank">
-                 <img align="center" src="https://img.shields.io/badge/-PortFólio-05122A" alt="Portfolio"/>
+                 <img align="center" src="https://img.shields.io/badge/Portf%C3%B3lio-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" alt="Portfolio"/>
             </a>
         </div>
 </div>
