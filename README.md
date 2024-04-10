@@ -1,6 +1,6 @@
 Oi, Sou o Bruno Eduardo! Futuro Programador Júnior <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br>
 <div align="center">
-*“Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”*
+<i> “Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”</i>
 </div>
 <div align="center">
     <a href="https://github.com/brunoedubems">
