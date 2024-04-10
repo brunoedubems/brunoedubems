@@ -41,10 +41,10 @@
 <div align="center">
     <h1>Contato</h1> 
         <div style="display: inline_block">
-            <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank">
+            <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank" style="color: inherit; text-decoration: none;">
                   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a> 
-            <a href="https://bruno-portfolio-beta.netlify.app/" target="_blank">
+            <a href="https://bruno-portfolio-beta.netlify.app/" target="_blank" style="color: inherit; text-decoration: none;">
                  <img align="center" src="https://img.shields.io/badge/Portf%C3%B3lio-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" alt="Portfolio"/>
             </a>
         </div>
