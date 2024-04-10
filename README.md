@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Oi, Sou o Bruno Eduardo! Futuro Programador Júnior <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br></h1>
-     <i> “Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”</i>
+    <h3><i> “Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”</i></h3>
 </div>
 
 <div align="center">
