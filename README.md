@@ -40,7 +40,7 @@
 
 <div align="center">
     <h1>Contato</h1> 
-        <div style="display: inline_block">
+        <div>
             <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank" style="color: inherit; text-decoration: none; outline: none; border: none;">
                   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a> 
