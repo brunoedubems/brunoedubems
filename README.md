@@ -1,5 +1,5 @@
-Ae, Sou o Bruno Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-
+Ae, Sou o Bruno Eduardo! Futuro Programador Júnior <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+“Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”
 <div align="center">
     <a href="https://github.com/brunoedubems">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoedubems&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&pat_1"/>
