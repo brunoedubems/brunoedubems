@@ -26,7 +26,7 @@
  
   
   # O que estou aprendendo agora 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -34,9 +34,9 @@
     <img align="center" alt="Power-Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
   
-  
+  <br>
   # Contato
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
