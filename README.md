@@ -48,6 +48,9 @@
             <a href="https://bruno-portfolio-beta.netlify.app/" target="_blank" style="color: inherit; text-decoration: none; outline: none; border: none;">
                  <img align="center" src="https://img.shields.io/badge/Portf%C3%B3lio-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" alt="Portfolio"/>
             </a>
+            <a href="https://hub.docker.com/u/brunoedubems" target="_blank" style="color: inherit; text-decoration: none; outline: none; border: none;">
+                 <img align="center" src="https://img.shields.io/badge/dockerHub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+            </a>
         </div>
 </div>
 
