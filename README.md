@@ -36,7 +36,6 @@
             -Fundamentos da arquitetura de software <br>
             - DDD: Modelagem Tática e Pattern <br>
             - SOLID <br>
-
         </div>
 </div>
   <br>
