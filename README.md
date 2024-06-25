@@ -38,7 +38,7 @@
             <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
         <br>    
         <br>
-            - Métodos ágeis, DDD, TDD e SOLID <br>
+            -Full cycle 3.0 → Métodos ágeis, DDD, TDD e SOLID <br>
         </div>
 </div>
   <br>
