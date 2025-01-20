@@ -34,8 +34,6 @@
             <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
             <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         <br>    
-        <br>
-            -Full cycle 3.0 → Métodos ágeis, DDD, TDD e SOLID <br>
         </div>
 </div>
   <br>
