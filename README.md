@@ -2,12 +2,6 @@
     <h1>Oi, Sou o Bruno Eduardo! Futuro programador júnior <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
     <h4><i> “Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”</i></h4><br>
 </div>
-<div align="center">
-    <a href="https://github.com/brunoedubems">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoedubems&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&pat_1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoedubems&layout=compact&langs_count=7&theme=dracula&pat_1"/>
-</div>
-
   <div align="center">
     <h1>O que ja experimentei em minha jornada até agora </h1>
         <div style="display: inline_block" style="color: inherit; text-decoration: none;"><br/>
