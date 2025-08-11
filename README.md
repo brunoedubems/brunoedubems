@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Oi, Sou o Bruno Eduardo! Futuro programador júnior <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-    <h4><i> “Por trás de todo profissional há uma história de um iniciante que recebeu uma oportunidade e a agarrou com ambas as mãos.”</i></h4><br>
+    <h1>Oi, Sou o Bruno Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 </div>
   <div align="center">
     <h1>O que sou bom  </h1>
@@ -17,7 +16,7 @@
 </div> 
  
 <div align="center">
-    <h1>O que estou aprendendo agora </h1> 
+    <h1>O que estou aperfeiçoando agora </h1> 
         <div style="display: inline_block">
             <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
             <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
