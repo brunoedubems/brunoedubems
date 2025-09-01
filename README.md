@@ -1,20 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Bruno+Eduardo!;Desenvolvedor+Back-end;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-</div>
-
-<br>
+# Olá, eu sou o Bruno Eduardo! 👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square&color=blue" alt="Visualizações do perfil"/>
-  <a href="https://www.linkedin.com/in/bruno-eduardo-53a0ba220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://bruno-portfolio-beta.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </div>
-
----
 
 ## 👨‍💻 Sobre Mim
 
@@ -57,15 +45,6 @@ Sou um desenvolvedor back-end com foco em Java e Spring Boot, atualmente expandi
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ## 📫 Como me encontrar
 
 <div align="center">
@@ -77,8 +56,5 @@ Sou um desenvolvedor back-end com foco em Java e Spring Boot, atualmente expandi
   </a>
   <a href="https://hub.docker.com/u/brunoedubems" target="_blank">
     <img src="https://img.shields.io/badge/Docker Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
