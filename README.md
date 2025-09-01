@@ -1,9 +1,5 @@
 # Olá, eu sou o Bruno Eduardo! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</div>
-
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor back-end com foco em Java e Spring Boot, atualmente expandindo meus conhecimentos em Docker e metodologias ágeis. Busco oportunidades para contribuir com projetos desafiadores e crescer profissionalmente em um ambiente colaborativo.
