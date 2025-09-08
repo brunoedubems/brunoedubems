@@ -34,9 +34,8 @@ Sou um desenvolvedor back-end com foco em Java e Spring Boot, atualmente expandi
 
 ## 📚 Aprimorando Atualmente
 
-- **Docker** - Containerização e orquestração de aplicações
-- **Spring Framework** - Desenvolvimento de aplicações enterprise
-- **Full Cycle 3.0** - Métodos ágeis, DDD, TDD e SOLID
+- **Docker**
+- **Spring Framework** 
 - **Arquitetura de Microsserviços**
 
 ---
