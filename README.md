@@ -2,7 +2,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor back-end com foco em Java e Spring Boot, atualmente expandindo meus conhecimentos em Docker e metodologias ágeis. Busco oportunidades para contribuir com projetos desafiadores e crescer profissionalmente em um ambiente colaborativo.
+Sou desenvolvedor back-end júnior em constante aprendizado, com foco em Java e Spring Boot. Atualmente, estou me aprofundando em Spring, SQL e conceitos de  SOLID e Arquitetura Limpa, buscando construir aplicações bem estruturadas, escaláveis e de fácil manutenção.
+
 
 ---
 
